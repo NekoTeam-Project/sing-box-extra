@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/matsuridayo/libneko/iphlpapi"
+	"github.com/nekoteam-project/libneko/iphlpapi"
 
 	L "github.com/sagernet/sing-box/log"
 	tun "github.com/sagernet/sing-tun"
